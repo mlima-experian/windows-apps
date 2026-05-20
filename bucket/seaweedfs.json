@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/seaweedfs/seaweedfs/releases/download/4.27/windows_amd64.zip",
-            "hash": "5846f41cb21c4095852d209e38e075aceb5857e4bc3b0f0dd01e514e57b4a455"
+            "hash": "d3ac31cfbb29482e63c0d4dec3486f824f8c5e13ec0a492b78150eb07030f5d1"
         }
     },
     "bin": [
